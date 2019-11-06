@@ -1,1 +1,79 @@
-<mxfile host="www.draw.io" modified="2019-11-05T11:49:00.647Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3859.400" etag="bom-ggKyqsVyFKdLOF9y" version="12.2.0" type="github" pages="1"><diagram id="lZfXSt9z3pB1EhVWOsXw" name="第 1 页">5Vpdc+MmFP01PG5HEgLBo+SP9qGddibbadI32cK2Wtm4Mk7s/fXlIvRlKYl31rGSeCYTwwUEvodzuBcZ4dH68HMeb1e/yURkyHOSA8Jj5Hmuxz39AZZjYQkILQzLPE1sp9pwl34T1uhY6z5NxK7VUUmZqXTbNs7lZiPmqmWL81w+tbstZNaedRsvRcdwN4+zrvWvNFGrwsqIU9t/EelyZWf2sGNb1nHZ2Rp2qziRTw0TniA8yqVURWl9GIkMnFf6pRg3faa1WlguNuqcAf7D37/fLzd5wNd/OrMwS/g6+hIUT3mMs739wnax6lh6QCTaIbYqc7WSS7mJs0ltjXK53yQCpnF0re7zq5RbbXS18R+h1NGiG++V1KaVWme2tZgTJnr2u1nTTu7zuXjhC9n1qzhfCvVCP1ohoLeukGuh8qMel4ssVuljex2x3UPLql/tZl2wnv4Or3sdr2+TBZoEiEeIUyiEEQodKETaMkUTH0UMMW0hiBEUElOYohB34GqD8bRKlbjbxsZnT5qibccv0iwbyUzmZixOiGCJr+07lct/RaOFeTNMaQXVo8iVOLwMVte5dgD2LSNKSbDVp5pfbkmaVYNb1HkjOHDXi1fY9Npb+fEexv9EyuqDfZypjA+t2tHWLkgWeiZZ8DOAXocttKtRE4ZCF4XMEiMcG8sERYYh0RhxYujkmz6aKmPTRFGky64hmKZTZCwUMQYFbQ+nn4BOnjM0nzz+2U4V1z+TKR4bkinlMltUoXCqRL4pUEODc4iheTUFjlXEqCkXIBYCbaDJMaMMCaPQWCamDy+b9GGlW10YrtcAB9cURSPERoao3DxHN00Qx43DjcMKOTeTTs3sevGBPff0wnjwAYnqkjZRCRmcqKxfWqfG011F1SCMUDiCgv5vd8cJ4EXIgk3nsYldGoBzB/oXfUC0fWjioUGewmasn0xgaj626+HkxYVVUwTlZieg6sXWPl2hEXxexFIhrPCSW2nB5mI+79tKM0Z84rzNVqJ88K30+TKJc1MJb9hcoptMXFfzNQk1n70epn08iSb03Ul0X/Rb6XCfRL8qyJeERbgamKAPFk4DHL8RLMPLXc/B6dFMgYOk/k5wH1V6gv63hyueCA6HBcaQbNYmujSfPfQkAC0b1ceVfb5ebjGFHXqKpvayakOWi136LZ6ZDoDwVqYbZRxCIkTG2gI6uiskFQbEWbrc6HImFvAogC6dx1lozQq0ONrpLZJull+NMH/xLwO077AW0C71O0DTHpzdt8LZ7TvWfgRoE5Qw3ECcGo3FtsCM2GroQ0NdCJhonzIXPG/cA8GTpyD7hWjbncMhxgYtCKCblQmvnvQ2NlVbPXzcVY9qB11lV1VXwrd24eSyM2OqIpMdLKbyB8HnkKr7RvmhhkrXanCgcmwi9UEwLSLVwe5G+nLdXhXt6DM3mWeRvob0nARyJdez/e77k8eFoP3JYxLwmXOh5BGfRFN+zwU865FD9mb378PQbXjq4PKN5qtyOOi1Iu7etl0VnxY6NVjvCJ9hr33LZfZIW/vei1MIBCGajHQyfzf9+scHly7sDixdXo/rfyg/KA+ZWwjMvZNbTL8nrcdXjcvJhdEsY4dbQJME7wzNcrIL5u5aPcPQxn327XMEf9ZiRFbDzeoXViDFOvf2IA+/hV1weoNTSW/zqu6qyTa+PKlff6N0E0if8L3nLL7qXR2+9KUsh1fQzK8CprPeb98C9J7vt8Mw3L2m5ZeBXlfrn0iatsYPTfHkfw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-06T01:36:33.797Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3859.400" etag="htghmVdF54Dkp4Bgy9sY" version="12.2.0" type="github" pages="1">
+  <diagram id="lZfXSt9z3pB1EhVWOsXw" name="第 1 页">
+    <mxGraphModel dx="1292" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2300" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4YZOXgnr79mU0bAld9mB-2" target="4YZOXgnr79mU0bAld9mB-6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-2" value="pdf盖章统一入口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="70" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YZOXgnr79mU0bAld9mB-6" target="4YZOXgnr79mU0bAld9mB-31" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-6" value="表中记录用印流程消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4YZOXgnr79mU0bAld9mB-14" target="4YZOXgnr79mU0bAld9mB-28" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-14" value="更新用印流程信息表状态为推送失败，并输出错误日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="150" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-28" value="该记录本次推送结束，后续会再次尝试该记录，直到推送成功" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="150" y="690" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4YZOXgnr79mU0bAld9mB-22" target="4YZOXgnr79mU0bAld9mB-26" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-22" value="更新用印流程信息表状态为已推送" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-26" value="本记录推送结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="560" y="690" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-8" value="&lt;font color=&quot;#ff3333&quot;&gt;用印完成&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="408" y="164" width="60" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-17" value="&lt;font color=&quot;#ff3333&quot;&gt;调用档案管理信息接口进行批量归档&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="400" y="430" width="210" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YZOXgnr79mU0bAld9mB-18" target="4YZOXgnr79mU0bAld9mB-14" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YZOXgnr79mU0bAld9mB-18" target="4YZOXgnr79mU0bAld9mB-22" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-18" value="接口调用是否成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="360" y="470" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YZOXgnr79mU0bAld9mB-31" target="4YZOXgnr79mU0bAld9mB-18" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4YZOXgnr79mU0bAld9mB-31" target="4YZOXgnr79mU0bAld9mB-28" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-31" value="推送文件SFTP" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="360" y="310" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-21" value="&lt;font color=&quot;#ff3333&quot;&gt;否&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="250" y="490" width="30" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-25" value="&lt;font color=&quot;#ff3333&quot;&gt;是&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="570" y="490" width="30" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-30" value="&lt;font color=&quot;#ff3333&quot;&gt;自动任务每日22点&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="408" y="280" width="110" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-35" value="&lt;font color=&quot;#ff3333&quot;&gt;推送成功&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="400" y="410" width="60" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="4YZOXgnr79mU0bAld9mB-38" value="&lt;font color=&quot;#ff3333&quot;&gt;附件推送失败&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="244" y="334" width="90" height="10" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
